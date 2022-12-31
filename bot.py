@@ -16,7 +16,7 @@ from image_enhancer import imageEnhancer
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
                     level=logging.INFO)
 logger = logging.getLogger(__name__)
-TOKEN = "<t.me/upscalingPhoto_bot.>"
+TOKEN = "<5804151272:AAFI5uDQeMjvkJB4_TBpYzedaMBYquoa6Ow>"
 
 
 def start(update, context):
